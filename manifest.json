@@ -1,0 +1,29 @@
+{
+  "name": "Kolibant",
+  "short_name": "Kolibant",
+  "description": "Kolibant Paketleme: İzmir’de e-ticaret ürünleri için ölçüye göre koli, paketleme hattı ve anlaşmalı kargo teslimi. Koli ölçünüzü girin, desiyi görün. Demo site; içerik kurgusaldır.",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#D9893B",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

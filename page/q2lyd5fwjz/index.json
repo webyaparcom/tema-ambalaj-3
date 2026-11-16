@@ -1,0 +1,40 @@
+{
+  "id": "q2lyd5fwjz",
+  "name": {
+    "tr": "Desi hesabı",
+    "en": "Shipping weight",
+    "ar": "الوزن الحجمي"
+  },
+  "description": {
+    "tr": "Koli ölçüsünden desi ve bölgeye göre tahmini gönderim ücreti.",
+    "en": "Volumetric weight from box size and estimated shipping price by zone.",
+    "ar": "الوزن الحجمي من مقاس الصندوق وسعر الشحن التقديري حسب المنطقة."
+  },
+  "keyword": {
+    "tr": "desi hesabı",
+    "en": "volumetric weight",
+    "ar": "الوزن الحجمي"
+  },
+  "path": "hizmetler",
+  "icon": "calculate",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "ebxjo7",
+      "i2murw"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {},
+  "title": {
+    "tr": "Desi hesabı",
+    "en": "Shipping weight",
+    "ar": "الوزن الحجمي"
+  },
+  "date": "2026-11-16T22:38:53.841Z",
+  "update": "2026-11-16T22:38:53.866Z"
+}

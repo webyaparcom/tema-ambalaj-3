@@ -1,0 +1,87 @@
+{
+  "data": [
+    {
+      "id": "q2lyd5fwjz",
+      "name": {
+        "tr": "Desi hesabı",
+        "en": "Shipping weight",
+        "ar": "الوزن الحجمي"
+      },
+      "description": {
+        "tr": "Koli ölçüsünden desi ve bölgeye göre tahmini gönderim ücreti.",
+        "en": "Volumetric weight from box size and estimated shipping price by zone.",
+        "ar": "الوزن الحجمي من مقاس الصندوق وسعر الشحن التقديري حسب المنطقة."
+      },
+      "path": "hizmetler",
+      "icon": "calculate",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "ebxjo7",
+          "i2murw"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Paketleme",
+        "en": "Packing",
+        "ar": "التغليف"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 1,
+      "icon": "conveyor_belt",
+      "desing": {
+        "header": [],
+        "body": [
+          "p8aksb",
+          "i2murw"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Siparişten kargoya altı istasyonlu paketleme hattı (kurgusal).",
+        "en": "A six-station packing line from order to courier (fictional).",
+        "ar": "خط تغليف من ست محطات من الطلب إلى الشحن (افتراضي)."
+      }
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 2,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "i2murw",
+          "k8mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon, WhatsApp ve harita.",
+        "en": "Address, phone, WhatsApp and map.",
+        "ar": "العنوان والهاتف وواتساب والخريطة."
+      }
+    }
+  ],
+  "desc": []
+}
