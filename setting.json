@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Kolibant Paketleme: İzmir’de e-ticaret ürünleri için ölçüye göre koli, paketleme hattı ve anlaşmalı kargo teslimi. Koli ölçünüzü girin, desiyi görün. Demo site; içerik kurgusaldır.",
+    "en": "Kolibant Packing: made-to-fit boxes, a packing line and contracted courier hand-off for e-commerce products in Izmir. Enter your box size and see the volumetric weight. Demo site; content is fictional.",
+    "ar": "كولي بانت للتغليف: صناديق على المقاس وخط تغليف وتسليم لشركة شحن متعاقدة لمنتجات التجارة الإلكترونية في إزمير. أدخل مقاس صندوقك وشاهد الوزن الحجمي. موقع تجريبي؛ المحتوى افتراضي."
+  },
+  "keyword": {
+    "tr": "e-ticaret kolisi, desi hesabı, paketleme hizmeti, ölçüye göre koli, İzmir",
+    "en": "e-commerce box, volumetric weight, packing service, made-to-fit box, Izmir",
+    "ar": "صندوق تجارة إلكترونية، حساب الوزن الحجمي، خدمة التغليف، صندوق على المقاس، إزمير"
+  },
+  "category": "Kurumsal",
+  "name": "Kolibant",
+  "domain": "ambalaj-3.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "inter",
+    "heading": "barlow-condensed",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#D9893B",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "1px",
+    "--mx-radius-md": "2px",
+    "--mx-radius-lg": "3px",
+    "--mx-radius-xl": "4px"
+  },
+  "icon": "icon.png"
+}
