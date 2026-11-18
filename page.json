@@ -5,12 +5,16 @@
       "name": {
         "tr": "Desi hesabı",
         "en": "Shipping weight",
-        "ar": "الوزن الحجمي"
+        "ar": "الوزن الحجمي",
+        "de": "Versandgewicht",
+        "ru": "Вес отправки"
       },
       "description": {
         "tr": "Koli ölçüsünden desi ve bölgeye göre tahmini gönderim ücreti.",
         "en": "Volumetric weight from box size and estimated shipping price by zone.",
-        "ar": "الوزن الحجمي من مقاس الصندوق وسعر الشحن التقديري حسب المنطقة."
+        "ar": "الوزن الحجمي من مقاس الصندوق وسعر الشحن التقديري حسب المنطقة.",
+        "de": "Volumetrisches Gewicht aus der Kistengröße und geschätzte Versandkosten nach Zone.",
+        "ru": "Объёмный вес по размеру коробки и ориентировочная стоимость доставки по зоне."
       },
       "path": "hizmetler",
       "icon": "calculate",
@@ -30,7 +34,9 @@
       "name": {
         "tr": "Paketleme",
         "en": "Packing",
-        "ar": "التغليف"
+        "ar": "التغليف",
+        "de": "Verpackung",
+        "ru": "Упаковка"
       },
       "status": "play",
       "id": "hakkimizda",
@@ -51,14 +57,18 @@
       "description": {
         "tr": "Siparişten kargoya altı istasyonlu paketleme hattı (kurgusal).",
         "en": "A six-station packing line from order to courier (fictional).",
-        "ar": "خط تغليف من ست محطات من الطلب إلى الشحن (افتراضي)."
+        "ar": "خط تغليف من ست محطات من الطلب إلى الشحن (افتراضي).",
+        "de": "Sechsstufige Verpackungsstraße von der Bestellung bis zum Versand (fiktiv).",
+        "ru": "Шестиступенчатая линия упаковки от заказа до курьера (вымышленная)."
       }
     },
     {
       "name": {
         "tr": "İletişim",
         "en": "Contact",
-        "ar": "اتصل بنا"
+        "ar": "اتصل بنا",
+        "de": "Kontakt",
+        "ru": "Контакты"
       },
       "status": "play",
       "id": "iletisim",
@@ -79,7 +89,9 @@
       "description": {
         "tr": "Adres, telefon, WhatsApp ve harita.",
         "en": "Address, phone, WhatsApp and map.",
-        "ar": "العنوان والهاتف وواتساب والخريطة."
+        "ar": "العنوان والهاتف وواتساب والخريطة.",
+        "de": "Adresse, Telefon, WhatsApp und Karte.",
+        "ru": "Адрес, телефон, WhatsApp и карта."
       }
     }
   ],

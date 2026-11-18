@@ -4,12 +4,16 @@
   "description": {
     "tr": "Kolibant Paketleme: İzmir’de e-ticaret ürünleri için ölçüye göre koli, paketleme hattı ve anlaşmalı kargo teslimi. Koli ölçünüzü girin, desiyi görün. Demo site; içerik kurgusaldır.",
     "en": "Kolibant Packing: made-to-fit boxes, a packing line and contracted courier hand-off for e-commerce products in Izmir. Enter your box size and see the volumetric weight. Demo site; content is fictional.",
-    "ar": "كولي بانت للتغليف: صناديق على المقاس وخط تغليف وتسليم لشركة شحن متعاقدة لمنتجات التجارة الإلكترونية في إزمير. أدخل مقاس صندوقك وشاهد الوزن الحجمي. موقع تجريبي؛ المحتوى افتراضي."
+    "ar": "كولي بانت للتغليف: صناديق على المقاس وخط تغليف وتسليم لشركة شحن متعاقدة لمنتجات التجارة الإلكترونية في إزمير. أدخل مقاس صندوقك وشاهد الوزن الحجمي. موقع تجريبي؛ المحتوى افتراضي.",
+    "de": "Kolibant Paketleme: maßgeschneiderte Kartons, Verpackungslinie und Versand mit Vertragskurier für E-Commerce-Produkte in İzmir. Geben Sie Ihr Kartonmaß ein und sehen Sie das Volumengewicht. Demo-Website; die Inhalte sind fiktiv.",
+    "ru": "Kolibant Paketleme: коробки по размеру, линия упаковки и доставка по договору с курьером для товаров интернет-магазинов в Измире. Введите размеры коробки и узнайте объёмный вес. Демо-сайт; содержание вымышленное."
   },
   "keyword": {
     "tr": "e-ticaret kolisi, desi hesabı, paketleme hizmeti, ölçüye göre koli, İzmir",
     "en": "e-commerce box, volumetric weight, packing service, made-to-fit box, Izmir",
-    "ar": "صندوق تجارة إلكترونية، حساب الوزن الحجمي، خدمة التغليف، صندوق على المقاس، إزمير"
+    "ar": "صندوق تجارة إلكترونية، حساب الوزن الحجمي، خدمة التغليف، صندوق على المقاس، إزمير",
+    "de": "E-Commerce-Karton, Volumengewicht, Verpackungs service, Maßkarton, Izmir",
+    "ru": "Коробка для e-commerce, объёмный вес, услуга упаковки, коробка по размеру, Измир"
   },
   "category": "Kurumsal",
   "name": "Kolibant",
@@ -18,15 +22,27 @@
     "tr": true,
     "en": true,
     "ar": true,
-    "de": false,
-    "ru": false,
+    "de": true,
+    "ru": true,
     "es": false,
     "fr": false,
     "it": false,
     "ja": false,
     "zh": false,
     "ko": false,
-    "pt": false
+    "pt": false,
+    "fa": false,
+    "he": false,
+    "ur": false,
+    "nl": false,
+    "pl": false,
+    "uk": false,
+    "az": false,
+    "ka": false,
+    "el": false,
+    "bg": false,
+    "ro": false,
+    "hi": false
   },
   "logo": "logo.png",
   "multi": false,

@@ -2,7 +2,9 @@
   "name": {
     "tr": "Paketleme",
     "en": "Packing",
-    "ar": "التغليف"
+    "ar": "التغليف",
+    "de": "Verpackung",
+    "ru": "Упаковка"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Siparişten kargoya altı istasyonlu paketleme hattı (kurgusal).",
     "en": "A six-station packing line from order to courier (fictional).",
-    "ar": "خط تغليف من ست محطات من الطلب إلى الشحن (افتراضي)."
+    "ar": "خط تغليف من ست محطات من الطلب إلى الشحن (افتراضي).",
+    "de": "Sechsstufige Verpackungsstraße von der Bestellung bis zum Versand (fiktiv).",
+    "ru": "Шестиступенчатая линия упаковки от заказа до курьера (вымышленная)."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "Paketleme",
     "en": "Packing",
-    "ar": "التغليف"
+    "ar": "التغليف",
+    "de": "Verpackung",
+    "ru": "Упаковка"
   },
   "keyword": {
     "tr": "hakkımızda",
     "en": "about",
-    "ar": "من نحن"
+    "ar": "من نحن",
+    "de": "Über uns",
+    "ru": "О нас"
   },
   "text": {},
   "update": "2026-11-16T22:38:53.877Z",

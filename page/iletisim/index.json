@@ -2,7 +2,9 @@
   "name": {
     "tr": "İletişim",
     "en": "Contact",
-    "ar": "اتصل بنا"
+    "ar": "اتصل بنا",
+    "de": "Kontakt",
+    "ru": "Контакты"
   },
   "status": "play",
   "category": "",
@@ -23,7 +25,9 @@
   "description": {
     "tr": "Adres, telefon, WhatsApp ve harita.",
     "en": "Address, phone, WhatsApp and map.",
-    "ar": "العنوان والهاتف وواتساب والخريطة."
+    "ar": "العنوان والهاتف وواتساب والخريطة.",
+    "de": "Adresse, Telefon, WhatsApp und Karte.",
+    "ru": "Адрес, телефон, WhatsApp и карта."
   },
   "spot": {
     "tr": "",
@@ -34,12 +38,16 @@
   "title": {
     "tr": "İletişim",
     "en": "Contact",
-    "ar": "اتصل بنا"
+    "ar": "اتصل بنا",
+    "de": "Kontakt",
+    "ru": "Контакты"
   },
   "keyword": {
     "tr": "iletişim",
     "en": "contact",
-    "ar": "اتصال"
+    "ar": "اتصال",
+    "de": "Kontakt",
+    "ru": "контакты"
   },
   "text": {},
   "update": "2026-11-16T22:38:53.896Z",
