@@ -3,17 +3,23 @@
   "name": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "description": {
     "tr": "Misyonumuz",
     "en": "Our mission",
-    "ar": "مهمتنا"
+    "ar": "مهمتنا",
+    "de": "Unsere Mission",
+    "ru": "Наша миссия"
   },
   "keyword": {
     "tr": "Misyon",
     "en": "mission, our mission, corporate responsibility",
-    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية"
+    "ar": "الرسالة, رسالتنا, المسؤولية المؤسسية",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "path": "misyon",
   "icon": "flag",
@@ -29,12 +35,16 @@
   "text": {
     "tr": "<h2>Misyonumuz</h2>\n<p>E-ticaret ürünlerini boşluksuz koliyle, plastiksiz dolguyla ve aynı gün kargoya hazır paketlemek.</p>",
     "en": "<h2>Our mission</h2>\n<p>To pack e-commerce products in snug boxes with plastic-free fill, ready for the courier the same day.</p>",
-    "ar": "<h2>مهمتنا</h2>\n<p>تغليف منتجات التجارة الإلكترونية بصناديق محكمة وحشوة خالية من البلاستيك وجاهزة للشحن في اليوم نفسه.</p>"
+    "ar": "<h2>مهمتنا</h2>\n<p>تغليف منتجات التجارة الإلكترونية بصناديق محكمة وحشوة خالية من البلاستيك وجاهزة للشحن في اليوم نفسه.</p>",
+    "de": "<h2>Unsere Mission</h2>\n<p>E-Commerce-Produkte in passgenauen Kartons mit plastikfreier Füllung verpacken und am selben Tag versandbereit machen.</p>",
+    "ru": "<h2>Наша миссия</h2>\n<p>Упаковывать товары для электронной коммерции в плотно подогнанные коробки с безпластиковой набивкой, готовые к отправке в тот же день.</p>"
   },
   "title": {
     "tr": "Misyon",
     "en": "Mission",
-    "ar": "المهمة"
+    "ar": "المهمة",
+    "de": "Mission",
+    "ru": "Миссия"
   },
   "date": "2026-11-16T22:38:53.484Z",
   "update": "2026-11-16T22:38:53.912Z",
